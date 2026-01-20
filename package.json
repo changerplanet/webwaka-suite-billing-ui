@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-billing-ui",
+  "version": "0.1.0",
+  "description": "WebWaka billing suite - ui",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
